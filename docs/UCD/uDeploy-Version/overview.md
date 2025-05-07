@@ -15,6 +15,30 @@ No special steps are required for installation. See [Installing plug-ins in DevO
 
 ### Release Notes
 
+#### Version 76
+Fix an issue with certain steps on z/OS
+
+#### Version 75
+Adds a new step "Get Version Status Information" for retrieving Version Status information with an option to fail the step unless a Status is present on the Version.
+
+#### Version 74
+Updating Jettison library to 1.5.4 for CVE-2023-1436
+
+#### Version 73
+Updating jettison library for CVE-2022-45693 and CVE-2022-45685
+
+#### Version 72
+Updating jettison library for CVE-2022-40150 CVE-2022-40149 
+
+#### Version 71
+Update for java 17 compatibility
+
+#### Version 70
+Update udclient and uDeployRestClient
+
+#### Version 69
+Remove log4j functionality related to: CVE-2019-17571, CVE-2020-9488. CVE-2021-4104, CVE-2022-23302, CVE-2022-23305, CVE-2022-23307
+
 #### Version 68
 
 Added option to version links that allows users to prioritize links. (Available in UCD 7.1.1.1 and beyond).
@@ -44,4 +68,4 @@ Fixes APAR PI57417. Plug-in now checks the agent settings for acceptance of self
 
 |Back to ...||Latest Version|IBM DevOps Deploy Versions |||
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[71.1132358](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-71.1132358.zip)|[Readme](README.md)|[Steps](steps.md)|[Downloads](downloads.md)|
+|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[71.1132358]([https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-76.1176673.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-76.1176673.zip)|[Readme](README.md)|[Steps](steps.md)|[Downloads](downloads.md)|

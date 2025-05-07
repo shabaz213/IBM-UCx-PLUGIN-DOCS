@@ -2,6 +2,11 @@
 # IBM DevOps Deploy Versions - Downloads
 
 To download the plug-in, click the following version-specific links.
+- [ucd-uDeploy-Version-76.1176673.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-76.1176673.zip)
+- [ucd-uDeploy-Version-75.1175079.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-75.1175079.zip)
+- [ucd-uDeploy-Version-74.1155707.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-74.1155707.zip)
+- [ucd-uDeploy-Version-73.1150736.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-73.1150736.zip)
+- [ucd-uDeploy-Version-72.1142513.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-72.1142513.zip)
 - [ucd-uDeploy-Version-71.1132358.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-71.1132358.zip)
 - [ucd-uDeploy-Version-70.1131559.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-70.1131559.zip)
 - [ucd-uDeploy-Version-69.1128768.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-69.1128768.zip)
@@ -19,4 +24,4 @@ To download the plug-in, click the following version-specific links.
 
 |Back to ...||Latest Version|IBM DevOps Deploy Versions |||
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[71.1132358](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-71.1132358.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|
+|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[76.1176673]([https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-71.1132358.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/blob/main/files/uDeploy-Version/ucd-uDeploy-Version-76.1176673.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|

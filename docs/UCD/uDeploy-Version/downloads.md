@@ -3,7 +3,7 @@
 
 To download the plug-in, click the following version-specific links.
 - [ucd-uDeploy-Version-76.1176673.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-76.1176673.zip)
-- [ucd-uDeploy-Version-75.1175079.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-75.1175079.zip))
+- [ucd-uDeploy-Version-75.1175079.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-75.1175079.zip)
 - [ucd-uDeploy-Version-74.1155707.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-74.1155707.zip)
 - [ucd-uDeploy-Version-73.1150736.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-73.1150736.zip)
 - [ucd-uDeploy-Version-72.1142513.zip](https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-72.1142513.zip)

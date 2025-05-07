@@ -7,6 +7,7 @@
 * [Create Version](#create_version)
 * [Get Version Properties](#get_version_properties)
 * [Remove Status from Version](#remove_status_from_version)
+* [Get Version Status Information](#get_version_status_information)
 
 
 ### Add Status to Version
@@ -65,8 +66,20 @@ Remove a status from a Component Version
 | ---- | ---- | -------------------------------------------------------------------------------------------------------------------- | -------- |
 | Status | String | The status to be removed from the Component Version. | No |
 
+### Get Version Status Information
+
+Retrieve the status information for a Version and sets the output properties: versionLatestStatus, versionStatuses, and versionStatusIds. The versionStatuses and versionStatusIds. properties will contain a comman-separated-values list of all statuses on the Version. Optionally, print a message and fail this step unless a required Status is present on the Version.
+
+
+| Name | Type | Description                                                                                                          | Required |
+| ---- | ---- | -------------------------------------------------------------------------------------------------------------------- | -------- |
+| Version Name | String | Name or ID of the version to get Status information.| Yes |
+| Component Name | String | Name or ID of the version's component. Required if Version is provided by name.| No |
+| Required Status | String | Fail this step unless the given Status Name/ID is present on the Version.| No |
+
+
 
 
 |Back to ...||Latest Version|IBM DevOps Deploy Versions |||
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[71.1132358](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/uDeploy-Version/ucd-uDeploy-Version-71.1132358.zip)|[Readme](README.md)|[Overview](overview.md)|[Downloads](downloads.md)|
+|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[76.1176673]((https://github.com/UrbanCode/IBM-UCD-PLUGINS/raw/refs/heads/main/files/uDeploy-Version/ucd-uDeploy-Version-76.1176673.zip)|[Readme](README.md)|[Overview](overview.md)|[Downloads](downloads.md)|
